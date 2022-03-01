@@ -1,0 +1,4 @@
+org.springframework.cloud.bindings.boot.enable: true
+
+logging.level:
+  '[org.springframework.cloud.bindings.boot]': debug
